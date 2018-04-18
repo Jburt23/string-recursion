@@ -8,7 +8,7 @@
 using namespace std;
 
 void recursion(string);
-int i = 1; 
+int i = 1;
 
 int main()
 {
@@ -20,19 +20,17 @@ int main()
 	recursion(myString);
 	cout << endl;
 
-	system("PAUSE");
+	cin.get();
 	return 0;
 }
 
 void recursion(string myString2)
 {
 
-	if  (i <= size(myString2))
+	if (i <= size(myString2))
 	{
 		cout << myString2[size(myString2) - i];
 		i++;
 		recursion(myString2);
 	}
-	
-	
 }
