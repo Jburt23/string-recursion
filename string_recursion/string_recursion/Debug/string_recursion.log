@@ -1,0 +1,3 @@
+﻿  string_recursion.cpp
+c:\users\jstnb\desktop\school stuff\csc 2144\string_recursion\string_recursion\string_recursion.cpp(30): warning C4018: '<=': signed/unsigned mismatch
+  string_recursion.vcxproj -> C:\Users\jstnb\Desktop\school stuff\CSC 2144\string_recursion\Debug\string_recursion.exe
